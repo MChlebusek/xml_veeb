@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<arvutid>
+  <arvuti>
+    <nimetus>Lauaarvuti</nimetus>
+    <hind>200 euro</hind>
+    <firma>HP</firma>
+    <lisad>
+      <monitor>
+        <nimetus>Suur monitor</nimetus>
+        <hind>56 euro</hind>
+      </monitor>
+      <hiir>
+        <nimetus>HP hiir</nimetus>
+      </hiir>
+    </lisad>
+  </arvuti>
+  
+  <arvuti>
+    <nimetus>Tahvliarvuti</nimetus>
+    <hind>2000 euro</hind>
+    <firma>HP</firma>
+    <lisad>
+      <monitor>
+        <nimetus>Suur monitor</nimetus>
+        <hind>56 euro</hind>
+      </monitor>
+      <hiir>
+        <nimetus>HP hiir</nimetus>
+      </hiir>
+    </lisad>
+  </arvuti>
+  <arvuti>
+    
+    <nimetus>Nutiarvuti</nimetus>
+    <hind>300 euro</hind>
+    <firma>HP</firma>
+    <lisad>
+      <monitor>
+        <nimetus>Suur monitor</nimetus>
+        <hind>56 euro</hind>
+      </monitor>
+      <hiir>
+        <nimetus>HP hiir</nimetus>
+      </hiir>
+    </lisad>
+  </arvuti>
+</arvutid>
